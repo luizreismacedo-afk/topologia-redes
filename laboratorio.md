@@ -4,10 +4,12 @@
 1. Configuração inicial
    
 - Subir a topologia com os dois nós (node-a e node-b).
-
+ 
 - Verificar endereços IP configurados com ip addr show.
+  
 
 - Testar conectividade básica com ping.
+ 
 
 2. Captura de pacotes
 
