@@ -82,7 +82,7 @@ Clone o repositório e acesse o diretório do laboratório:
 
 ```bash
 git clone https://github.com/luizreismacedo-afk/topologia-redes.git
-cd lab
+cd topologia-redes
 ```
 
 ## 🐝 Passo 2 — Deploy da Topologia
