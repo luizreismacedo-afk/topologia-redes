@@ -120,8 +120,5 @@ docker exec clab-lab-node-a ping -c 3 10.0.0.2
 
 ## 📚 Referências
 
-- [Documentação Oficial do eBPF](https://ebpf.io/what-is-ebpf/)
 - [Documentação do Containerlab](https://containerlab.dev/quickstart/)
-- [Tutorial XDP (kernel.org)](https://github.com/xdp-project/xdp-tutorial)
-- [libbpf GitHub](https://github.com/libbpf/libbpf)
 - [nicolaka/netshoot — Container de diagnóstico de rede](https://github.com/nicolaka/netshoot)
