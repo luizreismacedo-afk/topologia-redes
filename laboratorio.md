@@ -6,7 +6,7 @@
 Passo 1.1: Subir a topologia com os dois nós (node-a e node-b).
 
   ```
-   sudo clab deploy -t <topologia-redes>.yml
+   sudo clab deploy -t topologia-redes.yml
   ```
 Passo 1.2: Acessar os Nós do Laboratório
 
